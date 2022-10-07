@@ -1,0 +1,6 @@
+[submodule "SimpleFSDB"]
+	path = SimpleFSDB
+	url = https://github.com/YahyaAzzam/SimpleFSDB.git
+[submodule "SimpleDBDriver"]
+	path = SimpleDBDriver
+	url = https://github.com/YahyaAzzam/SimpleDBDriver.git
